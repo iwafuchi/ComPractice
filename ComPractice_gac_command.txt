@@ -1,0 +1,3 @@
+gacutil -i C:\Users\Administrator\source\repos\ComPractice\ComPractice\bin\Release\ComPractice.dll
+
+regasm C:\Users\Administrator\source\repos\ComPractice\ComPractice\bin\Release\ComPractice.dll /tlb:C:\Users\Administrator\source\repos\ComPractice\ComPractice\bin\Release\ComPractice.tlb
